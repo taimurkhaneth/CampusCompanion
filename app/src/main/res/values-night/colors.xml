@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Alternative resources: used automatically when the device is in dark (night) mode -->
+<resources>
+    <color name="brand_primary">#8AB4FF</color>
+    <color name="brand_primary_dark">#5C8DF0</color>
+    <color name="brand_on_primary">#0B1530</color>
+    <color name="brand_secondary">#FFB27A</color>
+    <color name="brand_on_secondary">#1A1A1A</color>
+
+    <color name="screen_bg">#0F1420</color>
+    <color name="surface">#1B2232</color>
+    <color name="text_primary">#EEF1F8</color>
+    <color name="text_secondary">#A3ACC0</color>
+    <color name="icon_tile_bg">#26324D</color>
+    <color name="error">#FF8A80</color>
+
+    <color name="splash_bg">#0B1020</color>
+    <color name="on_splash">#EEF1F8</color>
+    <color name="splash_logo_bg">#1FFFFFFF</color>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="screen_padding">24dp</dimen>
+    <dimen name="field_spacing">12dp</dimen>
+    <dimen name="button_height">56dp</dimen>
+    <dimen name="corner_radius">16dp</dimen>
+    <dimen name="logo_size">96dp</dimen>
+    <dimen name="title_text">26sp</dimen>
+    <dimen name="subtitle_text">15sp</dimen>
+</resources>

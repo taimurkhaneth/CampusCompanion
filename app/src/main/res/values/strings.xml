@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App -->
+    <string name="app_name">Campus Companion</string>
+    <string name="tagline">Your student life, organized</string>
+    <string name="cd_app_logo">Campus Companion logo</string>
+    <string name="cd_back">Back</string>
+
+    <!-- Login -->
+    <string name="login_title">Welcome back</string>
+    <string name="login_subtitle">Sign in to continue to your campus</string>
+    <string name="hint_email_or_username">Email or username</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_forgot_password">Forgot password?</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="btn_register">Register</string>
+    <string name="demo_credentials">Demo account: student@uni.edu / 123456</string>
+
+    <!-- Register -->
+    <string name="register_title">Create account</string>
+    <string name="register_subtitle">Join Campus Companion in a few seconds</string>
+    <string name="hint_full_name">Full name</string>
+    <string name="hint_email">Email address</string>
+    <string name="hint_confirm_password">Confirm password</string>
+    <string name="btn_create_account">Create account</string>
+    <string name="have_account">Already have an account? Login</string>
+
+    <!-- Forgot / Reset password -->
+    <string name="forgot_title">Forgot password</string>
+    <string name="forgot_subtitle">Enter the email linked to your account and we\'ll send you a recovery link.</string>
+    <string name="btn_send_recovery">Send recovery link</string>
+    <string name="reset_title">Reset password</string>
+    <string name="reset_subtitle">Choose a new password for %1$s</string>
+    <string name="hint_new_password">New password</string>
+    <string name="hint_confirm_new_password">Confirm new password</string>
+    <string name="btn_reset_password">Save new password</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_greeting">Hello, %1$s</string>
+    <string name="dashboard_subtitle">What would you like to do today?</string>
+    <string name="modules_heading">Modules</string>
+    <string name="cd_open_profile">Open profile</string>
+    <string name="module_timetable">Timetable</string>
+    <string name="module_timetable_desc">Today\'s classes</string>
+    <string name="module_assignments">Assignments</string>
+    <string name="module_assignments_desc">Pending tasks</string>
+    <string name="module_attendance">Attendance</string>
+    <string name="module_attendance_desc">Track your presence</string>
+    <string name="module_results">Results</string>
+    <string name="module_results_desc">Grades &amp; GPA</string>
+    <string name="module_notices">Notices</string>
+    <string name="module_notices_desc">Campus updates</string>
+    <string name="module_profile">Profile</string>
+    <string name="module_profile_desc">Your account</string>
+    <string name="module_coming_soon">%1$s module coming soon</string>
+
+    <!-- Profile -->
+    <string name="profile_title">My profile</string>
+    <string name="cd_avatar">Profile picture</string>
+    <string name="label_username">Username</string>
+    <string name="label_student_id">Student ID</string>
+    <string name="label_program">Program</string>
+    <string name="value_program">BS Computer Science</string>
+    <string name="btn_logout">Logout</string>
+    <string name="logout_confirm_title">Logout?</string>
+    <string name="logout_confirm_message">Are you sure you want to log out of Campus Companion?</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Validation errors -->
+    <string name="error_required">This field is required</string>
+    <string name="error_invalid_email">Enter a valid email address</string>
+    <string name="error_name_short">Name must be at least 3 characters</string>
+    <string name="error_password_short">Password must be at least 6 characters</string>
+    <string name="error_password_mismatch">Passwords do not match</string>
+    <string name="error_invalid_login">Incorrect email/username or password</string>
+    <string name="error_email_not_found">No account found with this email</string>
+
+    <!-- Messages -->
+    <string name="msg_login_success">Welcome, %1$s!</string>
+    <string name="msg_register_success">Account created. Please log in.</string>
+    <string name="msg_recovery_sent">Recovery link sent to %1$s (simulated)</string>
+    <string name="msg_password_reset">Password updated. Please log in.</string>
+    <string name="msg_logged_out">You have been logged out</string>
+</resources>

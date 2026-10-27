@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Default (light mode) colors. Night-mode overrides live in values-night/colors.xml -->
+<resources>
+    <color name="brand_primary">#1E5EFF</color>
+    <color name="brand_primary_dark">#1546C8</color>
+    <color name="brand_on_primary">#FFFFFF</color>
+    <color name="brand_secondary">#FF8A3D</color>
+    <color name="brand_on_secondary">#1A1A1A</color>
+
+    <color name="screen_bg">#F4F6FB</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_primary">#141A2B</color>
+    <color name="text_secondary">#5B6478</color>
+    <color name="icon_tile_bg">#E6EDFF</color>
+    <color name="error">#D93025</color>
+
+    <color name="splash_bg">#1E5EFF</color>
+    <color name="on_splash">#FFFFFF</color>
+    <color name="splash_logo_bg">#33FFFFFF</color>
+
+    <color name="ic_launcher_background">#1E5EFF</color>
+</resources>
