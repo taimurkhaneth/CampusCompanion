@@ -3,27 +3,28 @@ plugins {
 }
 
 android {
-    namespace 'com.taimur.campuscompanion'
-    compileSdk 34
+    namespace = 'com.taimur.campuscompanion'
+    compileSdk = 36
 
     defaultConfig {
-        applicationId "com.taimur.campuscompanion"
-        minSdk 26
-        targetSdk 34
-        versionCode 1
-        versionName "1.0"
+        applicationId = "com.taimur.campuscompanion"
+        minSdk = 26
+        // Kept at 34 so Android 15+ doesn't force edge-to-edge drawing under the status bar
+        targetSdk = 34
+        versionCode = 1
+        versionName = "1.0"
     }
 
     buildTypes {
         release {
-            minifyEnabled false
+            minifyEnabled = false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
     }
 
     compileOptions {
-        sourceCompatibility JavaVersion.VERSION_11
-        targetCompatibility JavaVersion.VERSION_11
+        sourceCompatibility = JavaVersion.VERSION_11
+        targetCompatibility = JavaVersion.VERSION_11
     }
 }
 

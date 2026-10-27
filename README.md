@@ -66,7 +66,7 @@ app/src/main/
 
 ## How to run
 
-1. Open the project in Android Studio (Koala or newer).
-2. Let Gradle sync (Android Gradle Plugin 8.5.2, Gradle 8.7, JDK 17).
+1. Open the project in Android Studio (Quail 4 / 2026.1.4 or newer).
+2. Let Gradle sync (Android Gradle Plugin 9.4.0, Gradle 9.6.0, JDK 17–25).
 3. Run on an emulator or device with Android 8.0 (API 26) or higher.
 4. To see the night-mode resources, turn on Dark theme in the device settings.
